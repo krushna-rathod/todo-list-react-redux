@@ -1,0 +1,53 @@
+
+
+body{
+    background-color: rgb(198, 211, 210);
+}
+button{
+    margin:10px;
+    border: 1px solid rgb(29, 31, 29) ;
+    border-radius: 10px;
+}
+.design{
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 500px;
+  border: 2px solid black;
+  background-color: beige ;
+ 
+  width: 700px;
+  border-radius: 5px;
+
+}
+h3{
+    margin-top: 10px;
+    align-items: center;
+    color: rgb(152, 60, 201) ;
+}
+input{
+    border-radius: 5px;
+    height: 30px;
+    width: 300px;
+    
+}
+span{
+    margin-right: 130px;
+    color:rgb(208, 15, 192) ;
+    font-size: 20px;
+    font-weight: 400;
+   
+}
+button:hover{
+    background-color: aqua;
+}
+.design:hover{
+      text-align: center;
+  margin-top: 0px;
+  margin-left: 500px;
+  border: 2px solid rgb(200, 62, 186);
+  background-color: beige ;
+ 
+  width: 700px;
+  box-shadow: 2px 2px 15px rgb(69, 61, 9);
+
+}
